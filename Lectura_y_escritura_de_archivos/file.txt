@@ -1,0 +1,3 @@
+Hello, World!!!
+Este es un archivo.txt de ejemplo para el uso de los archivos existentes en esta carpeta.
+utilizado para mostrar la lectura de los archivos.

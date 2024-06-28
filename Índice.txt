@@ -1,0 +1,16 @@
+ Índice
+
+1. Estructura Básica del Código
+2. Manipulación de Listas y Bucles
+3. Módulos y Funciones
+4. Funciones de Fecha y Hora
+5. Manejo de Errores
+6. Lectura y Escritura de Archivos
+7. Condicionales y Bucles
+8. Funciones Matemáticas
+9. Manejo de Cadenas
+10. Comprensiones de Listas y Generadores
+11. Programación Orientada a Objetos (OOP)
+12. Manipulación de Datos con `pandas`
+13. Ejemplos de Ejercicios Completos
+14. Recursos Adicionales
