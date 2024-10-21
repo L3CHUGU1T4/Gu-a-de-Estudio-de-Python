@@ -39,9 +39,6 @@ Esta guía te ayudará a prepararte para la certificación de Python. Incluye ex
     ```
 5. Crea un nuevo Pull Request.
 
-## Licencia
-
-MIT
 
 
 
